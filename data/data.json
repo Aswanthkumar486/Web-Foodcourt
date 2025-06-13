@@ -1,0 +1,162 @@
+{
+  "navbar": {
+    "logo": "https://th.bing.com/th/id/OIP.p00aL-jHZmazPwcvWVw8BAHaHa?w=612&h=612&rs=1&pid=ImgDetMain",
+    "links": [
+      {"title": "Home", "url": "#"},
+      {"title": "About", "url": "#about"},
+      {"title": "Menu", "url": "#menu"},
+      {"title": "Chefs", "url": "#chefs"},
+      {"title": "Services", "url": "#services"},
+      {"title": "Contact", "url": "#contact"}
+    ]
+  },
+  "hero": {
+    "carouselItems": [
+      {
+        "title": "Authentic Italian Cuisine",
+        "description": "Handcrafted with love since 1987",
+        "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf"
+      },
+      {
+        "title": "Fresh Seafood Specialties",
+        "description": "Daily caught from Mediterranean",
+        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+      }
+    ]
+  },
+  "about": {
+    "title": "Our Story",
+    "content": "Founded in 1987, Food Court brings authentic family recipes with a modern twist. Our chefs use locally-sourced ingredients to create memorable dining experiences.",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+  },
+ "services": [
+  {
+    "icon": "bi-egg-fried",
+    "title": "Breakfast",
+    "description": "Fresh morning delights available daily from 7am to 11am"
+  },
+  {
+    "icon": "bi-cup-straw",
+    "title": "Beverages",
+    "description": "Artisanal coffees, smoothies & cocktails served all day"
+  },
+  {
+    "icon": "bi-basket",
+    "title": "Takeaway",
+    "description": "Order your favorite meals to go, packed with care"
+  },
+  {
+    "icon": "bi-truck",
+    "title": "Online Delivery",
+    "description": "Now available on Swiggy and Zomato – get food delivered to your door"
+  }
+]
+,
+  "menu": {
+    "title": "Our Specialties",
+   "items": [
+  {
+    "name": "Truffle Pasta",
+    "description": "Handmade pasta with black truffle",
+    "price": 1575,
+    "image": "https://th.bing.com/th/id/OIP.0rFx2FrS8J2mIyNAWd2t0wHaJ4?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Seafood Platter",
+    "description": "Fresh catch of the day",
+    "price": 2075,
+    "image": "https://th.bing.com/th/id/OIP.QgIyb_USvYGe1_gZ5wBd5wHaHa?w=2000&h=2000&rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Grilled Ribeye Steak",
+    "description": "Juicy ribeye grilled to perfection",
+    "price": 2485,
+    "image": "https://th.bing.com/th/id/OIP.8XGMDbsOJCaUXI4EGB4HGgHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with fresh tomatoes and basil",
+    "price": 1200,
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza-1080x1080.jpg"
+  },
+  {
+    "name": "Lemon Herb Salmon",
+    "description": "Pan-seared salmon with lemon herb sauce",
+    "price": 1800,
+    "image": "https://th.bing.com/th/id/OIP.zecULXgYYsCy66Kf2vLZ0gHaLH?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "BBQ Chicken Wings",
+    "description": "Crispy wings glazed with smoky BBQ sauce",
+    "price": 995,
+    "image": "https://th.bing.com/th/id/OIP.IwGe_JMePVgP-B9Gr5ugSwHaLH?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce with creamy Caesar dressing",
+    "price": 790,
+    "image": "https://th.bing.com/th/id/OIP.HX6d9PQqB94YDMhntFqs3gHaLH?w=1200&h=1800&rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Sushi Assortment",
+    "description": "Variety of fresh nigiri and maki rolls",
+    "price": 1910,
+    "image": "https://media.gettyimages.com/id/1179149164/photo/japanese-sushi-assortment-food-model.jpg?s=1024x1024&w=gi&k=20&c=kkD9_DELd7U5SJq9UPsSKCAyvpnBGv-SEIY9GT3lPUg="
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey center",
+    "price": 685,
+    "image": "https://th.bing.com/th/id/OIP.AW6Psms_Q3mKkATY_42nFQHaLH?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Iced Matcha Latte",
+    "description": "Refreshing iced matcha with oat milk",
+    "price": 475,
+    "image": "https://lifemadesweeter.com/wp-content/uploads/Iced-Matcha-Latte-recipe.jpg"
+  }
+]
+
+  },
+ "cooks": {
+  "title": "Our Master Chefs",
+  "description": "Meet the culinary artists who create magic in our kitchen",
+ "chefs": [
+    {
+      "name": "Chef Marco",
+      "specialty": "Italian Cuisine",
+      "experience": "15 years",
+      "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf" 
+    },
+    {
+      "name": "Chef Julia",
+      "specialty": "French Pastries",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/professional-chef-workplace-cuisine-restaurant-close-up-view-man-hand-stirring-soup_763111-7022.jpg"
+    },
+    {
+      "name": "Chef Raj",
+      "specialty": "Indian Fusion",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/premium-photo/professional-chef-workplace-cuisine-restaurant-close-up-view-man-hand-stirring-soup_763111-7023.jpg"
+    }
+  ]
+}
+,
+ 
+   "footer": {
+    "logo": "http://cdn.onlinewebfonts.com/svg/img_547302.png",
+    "aboutText": "Food Court is a family-owned restaurant...",
+    "hours": "Mon-Fri: 8am-10pm\nSat-Sun: 9am-11pm",
+    "contact": "123 Tasty Street, Foodville\ncontact@foodcourt.com\n(123) 456-7890",
+    "social": [
+      { "icon": "bi-facebook", "url": "#" },
+      { "icon": "bi-instagram", "url": "#" },
+      { "icon": "bi-twitter", "url": "#" },
+      { "icon": "bi-youtube", "url": "#" }
+    ],
+    "paymentIcons": ["bi-credit-card", "bi-paypal", "bi-google", "bi-apple"]
+  }
+
+
+}
